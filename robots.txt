@@ -1,1 +1,1 @@
-Sitemap: https://shai024.github.io/Blog-Project/sitemap.xml
+Sitemap: https://shai024.github.io/DataScienceWithBritney/sitemap.xml
