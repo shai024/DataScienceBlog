@@ -7,10 +7,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/britney-aiken-929373185/
-    - icon: github
-      text: Github
-      href: https://github.com/shai024/Blog-Project
 
 ---
-
-Virginia Tech M.Eng Computer Science Student
+AI/ML Systems Development Engineer 
+B.S. Information Technology, George Mason University 
+M.Eng Computer Science, Virginia Tech
