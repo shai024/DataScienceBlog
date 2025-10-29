@@ -1,5 +1,5 @@
 ---
-title: "Data Science With Britney"
+title: "Intro to Data Science"
 listing:
   contents: posts
   sort: "order asc"
@@ -9,5 +9,5 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: true
-#feed: true
+feed: true
 ---

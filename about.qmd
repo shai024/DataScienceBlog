@@ -10,5 +10,7 @@ about:
 
 ---
 AI/ML Systems Development Engineer 
+
 B.S. Information Technology, George Mason University 
+
 M.Eng Computer Science, Virginia Tech
