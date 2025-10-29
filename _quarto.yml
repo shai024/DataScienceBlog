@@ -3,12 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Blog Project"
+  title: "Data Science With Britney"
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
       - icon: linkedin
         href: https://www.linkedin.com/in/britney-aiken-929373185/
 format:
