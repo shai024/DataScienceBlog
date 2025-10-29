@@ -1,5 +1,5 @@
 ---
-title: "CS 5805 Blog Project"
+title: "Data Science With Britney"
 listing:
   contents: posts
   sort: "order asc"
