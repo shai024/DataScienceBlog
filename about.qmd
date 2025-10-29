@@ -1,6 +1,6 @@
 ---
 title: "Britney Aiken"
-image: profile.jpg
+image: britney.jpg
 about:
   template: jolla
   links:
